@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Saiyam Aggarwal
 
-<!--
-**saiyamaggarwal8-star/saiyamaggarwal8-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at Bennett University. I build projects in Python and Java,
+and I'm the Management Head of the Indian Blockchain Fraternity (IBF), a club at Bennett.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ADSA, an AI-driven network security compliance auditor (hackathon project)
+- Stock trading simulator in Java
+- Building up my cybersecurity fundamentals and DSA
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/saiyam-aggarwal-804b4937b)
