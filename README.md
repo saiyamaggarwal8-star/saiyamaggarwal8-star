@@ -8,7 +8,7 @@ and I'm the Management Head of the Indian Blockchain Fraternity (IBF), a club at
 - ADSA, an AI-driven network security compliance auditor (hackathon project)
 - Stock trading simulator in Java
 - Building up my cybersecurity fundamentals and DSA
-- FundDAO, a Stellar/Soroban DAO crowdfunding app with proof-gated milestone voting (team project)
+- FundDAO, a Stellar/Soroban DAO crowdfunding app with proof-gated milestone voting (team project; I handled the backend)
 
 ## Find me
 
