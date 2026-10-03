@@ -5,7 +5,7 @@ and I'm the Management Head of the Indian Blockchain Fraternity (IBF), a club at
 
 ## What I'm working on
 
-- ADSA, an AI-driven network security compliance auditor (hackathon project)
+- ADSA, an AI-driven network security compliance auditor (hackathon project; I built the frontend dashboard)
 - Stock trading simulator in Java
 - Building up my cybersecurity fundamentals and DSA
 - [FundDAO](https://github.com/Mahii7012/FundDAO), a Stellar/Soroban DAO crowdfunding app with proof-gated milestone voting (team project; I handled the backend)
